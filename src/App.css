@@ -1,21 +1,22 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
-.app-header{
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
+.app-header {
   text-align: center;
   padding: 20px;
 }
-
-.header{
-  font-family: 'Azeret Mono', monospace;
+.main {
+  background-image: url("https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?cs=srgb&dl=pexels-fwstudio-129731.jpg&fm=jpg");
+}
+.header {
+  font-family: "Azeret Mono", monospace;
   font-size: 30px;
 }
 
-.app-body{
-  padding: 20px;
+.app-body {
   text-align: center;
+  margin-inline: 18% 14%;
 }
 
-.language-select{
+.language-select {
   height: 40px !important;
   margin-bottom: 15px;
   outline: none !important;
